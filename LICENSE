@@ -1,21 +1,31 @@
 MIT License
 
-Copyright (c) 2026 VICTOR K KEMBOI
+Copyright (c) 2026 Victor K. Kemboi
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and associated documentation files (the “Software”) are private and proprietary.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission::granted to access and use this Software strictly for personal, internal, or testing purposes only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may:
+Run and test the Software for evaluation or learning purposes.
+Modify the Software for personal or internal testing.
+
+You may not:
+
+Sell, sublicense, rent, lease, or commercially exploit the Software.
+Distribute or publish the Software or modified versions.
+Use the Software in production or for any commercial purpose.
+Share the Software publicly without explicit written permission.
+
+Modifications & Requests :
+Any requests for changes, redistribution, commercial use, or extended permissions must be approved in writing by the copyright holder.
+
+For permissions or inquiries, contact:
+Victor K. Kemboi
+
+Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
